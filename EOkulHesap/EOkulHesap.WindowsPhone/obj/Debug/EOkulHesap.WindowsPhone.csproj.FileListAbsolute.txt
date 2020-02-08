@@ -1,0 +1,82 @@
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\App.xbf
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\EOkulHesap.WindowsPhone.xr.xml
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\EOkulHesap.WindowsPhone.exe
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\EOkulHesap.WindowsPhone.pdb
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\resources.pri
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\EOkulHesap.WindowsPhone.build.appxrecipe
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\App.g.cs
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\App.xaml
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\App.xbf
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\EOkulHesap.WindowsPhone.exe
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\EOkulHesap.WindowsPhone.pdb
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\EOkulHesap.WindowsPhone.csprojResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\HtmlAgilityPack.dll
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\HtmlAgilityPack.pdb
+c:\users\onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\EOkulHesap.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\DersGir.xbf
+C:\Users\Onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\DersGir.g.i.cs
+C:\Users\Onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\DersGir.g.cs
+C:\Users\Onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\DersGir.xaml
+C:\Users\Onur\documents\visual studio 2015\Projects\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\DersGir.xbf
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\DersGir.xbf
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\EOkulHesap.WindowsPhone.xr.xml
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\EOkulHesap.WindowsPhone.exe
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\EOkulHesap.WindowsPhone.pdb
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\EOkulHesap.WindowsPhone.build.appxrecipe
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\EOkulHesap.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\DersGir.g.i.cs
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\DersGir.g.cs
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\DersGir.xaml
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\DersGir.xbf
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\EOkulHesap.WindowsPhone.exe
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\EOkulHesap.WindowsPhone.pdb
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\EOkulHesap.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Onur\Desktop\EOkulHesap\EOkulHesap\EOkulHesap.WindowsPhone\obj\Debug\ProjectArchitectures.txt

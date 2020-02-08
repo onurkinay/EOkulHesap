@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="EOkulHesap.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:EOkulHesap"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <WebView x:ConnectionId='1' x:Name="web" Source="http://e-okul.meb.gov.tr/" HorizontalAlignment="Left" Height="638" VerticalAlignment="Top" Width="400"                                                                                 Margin="0,0,0,-58"/>
+
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar Visibility="Collapsed" x:Name="cmbar">
+            <AppBarButton x:ConnectionId='2' Visibility="Visible" Label="Hesapla" Icon="Calculator"                      />
+            <AppBarButton x:ConnectionId='3' Visibility="Visible" Name="one"  Label="Dönem"                    >
+                <AppBarButton.Icon>
+                    <BitmapIcon UriSource="ms-appx:///Assets/one.png"/>
+                </AppBarButton.Icon>
+            </AppBarButton>
+
+            <AppBarButton x:ConnectionId='4' Visibility="Collapsed" Name="two" Label="Dönem"                    >
+                <AppBarButton.Icon>
+                    <BitmapIcon UriSource="ms-appx:///Assets/two.png"  />
+                </AppBarButton.Icon>
+            </AppBarButton>
+
+
+
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:ConnectionId='5' x:Name="dersGir" Label="Dersleri Gir"                       />
+
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+
